@@ -1,0 +1,3 @@
+MATTERMOST_ACCESS_TOKEN = "Your Token"
+CHANNEL_ID = ""
+URL = "https://mattermost.lifeengine.net/api/v4"
